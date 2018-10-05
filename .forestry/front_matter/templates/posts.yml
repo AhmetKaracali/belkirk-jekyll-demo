@@ -9,7 +9,7 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/kaza-anında-alınacak-önlemler.md
+- _posts/2018-10-05-kaza-anında-alınacak-önlemler.md
 - _posts/2018-10-05-bakım-muayenesini-zamanında-yaptırmanın-avantajları.md
 - _posts/2018-10-05-araç-lastikleri-ne-zaman-değişmelidir.md
 - _posts/2018-10-05-motor-yağı-değişimi.md
