@@ -5,35 +5,37 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: heading
-  label: Content
-- type: jekyll-posts
-  label: Posts
+  label: içerik
+- type: directory
+  path: _posts
+  label: Yazılar
   create: all
+  match: "**/*"
   templates:
   - posts
 - type: jekyll-pages
-  label: Pages
+  label: Sayfalar
   create: all
   templates:
   - landing-page
   - default
 - type: directory
-  path: _people
-  label: People
+  path: _ekip
+  label: Ekip
   create: all
   match: "*"
   templates:
   - person
 - type: directory
-  path: _projects
-  label: Projects
+  path: _affilates
+  label: İş Ortakları
   create: all
   match: "*"
   templates:
   - project
 - type: document
   path: _data/information.yml
-  label: Contact Information
+  label: İletişim
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
