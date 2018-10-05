@@ -11,10 +11,10 @@ services:
 - description: Otomobilleriniz servisimizde tamir edilir.
   heading: Oto Tamir
   icon: "/uploads/2018/10/05/icon-1-OPT.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Araçlarınızın 15.000 km'de bir kez (veya her yıl) girmesi gereken servis
+    bakımı servisimizde uygulanır.
+  heading: Periyodik Bakım
+  icon: "/uploads/2018/10/05/engine-icon.png"
 sub_heading: Tamir ve Bakım Servisi
 textline: Oto Tamir ve Periyodik Bakım Servisi
 hero_button:
