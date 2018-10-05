@@ -4,9 +4,9 @@ banner_image: "/uploads/2018/10/05/headerPic1.jpg"
 layout: landing-page
 heading: 'Öz Huzur Oto Motor '
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2018/10/05/castrolIcon.png"
+- "/uploads/2018/10/05/shellIcon.png"
+- "/uploads/2018/10/05/petronasIcon.png"
 services:
 - description: Otomobilleriniz servisimizde tamir edilir.
   heading: Oto Tamir
